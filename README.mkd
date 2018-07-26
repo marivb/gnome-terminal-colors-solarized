@@ -1,3 +1,5 @@
+**Forked to apply changes suggested here: http://jmatth.com/blog/2014/06/15/solarized-plus-plus/**
+
 Solarized Colorscheme for Gnome Terminal
 ========================================
 
